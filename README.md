@@ -1,17 +1,45 @@
 # SnakeGame
 
-### Link to download the [game](https://1ai-13.itch.io/snake-game)
+### Classic Snake Game
 
-Controls:
-W,A,S,D OR ARROW Keys.
+Play / Download: [SnakeGame](https://1ai-13.itch.io/snake-game)  
 
-Scores:
-- Rabbit 250 p. increase speed.
-- Fruits 50 points
-- Cookie -50p. reset speed.
+---
 
-No options to turn off the sounds effects or music, they have fixed values.
+## Tech Stack
 
-Unzip the filed on the desired directory and click on desktop.exe to launch the game!
+- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) **Java**  
+- ![LibGDX](https://img.shields.io/badge/LibGDX-2A9D8F?logo=libgdx&logoColor=white) **LibGDX Framework**  
+
+---
+
+## Controls
+
+| Action | Keys |
+|--------|------|
+| Move Up | `W` / `↑` |
+| Move Down | `S` / `↓` |
+| Move Left | `A` / `←` |
+| Move Right | `D` / `→` |
+
+---
+
+## Scoring
+
+- Rabbit: 250 points (increases speed)  
+- Fruits: 50 points  
+- Cookie: -50 points (resets speed)  
+
+> ⚠️ Sound effects and music have fixed values and cannot be turned off.
+
+---
+
+## How to Play
+
+1. Download the zip file from the link above  
+2. Unzip to the desired directory  
+3. Double-click `desktop.exe` to launch the game  
+
+---
 
 **Have fun!**
