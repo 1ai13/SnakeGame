@@ -6,10 +6,11 @@ Play / Download: [SnakeGame](https://1ai-13.itch.io/snake-game)
 
 ---
 
-## Tech Stack
+## Scoring
 
-- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) **Java**  
-- ![LibGDX](https://img.shields.io/badge/LibGDX-2A9D8F?logo=libgdx&logoColor=white) **LibGDX Framework**  
+- Rabbit: 250 points (increases speed)  
+- Fruits: 50 points  
+- Cookie: -50 points (resets speed)  
 
 ---
 
@@ -24,11 +25,10 @@ Play / Download: [SnakeGame](https://1ai-13.itch.io/snake-game)
 
 ---
 
-## Scoring
+## Tech Stack
 
-- Rabbit: 250 points (increases speed)  
-- Fruits: 50 points  
-- Cookie: -50 points (resets speed)  
+- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) 
+- ![LibGDX](https://img.shields.io/badge/LibGDX-2A9D8F?logo=libgdx&logoColor=white)
 
 > ⚠️ Sound effects and music have fixed values and cannot be turned off.
 
